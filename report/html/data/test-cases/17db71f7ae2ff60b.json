@@ -1,0 +1,63 @@
+{
+  "uid" : "17db71f7ae2ff60b",
+  "name" : "H:\\htestApi\\testcase\\sys.test_sys_changePwd.Test_ChangPwd.test_changpwd2",
+  "fullName" : "testcase.H:\\htestApi\\testcase\\sys.test_sys_changePwd.Test_ChangPwd.test_changpwd2",
+  "historyId" : "a1e660399c8b3d021f7f97864449f93f",
+  "time" : {
+    "start" : 1554608729033,
+    "stop" : 1554608729145,
+    "duration" : 112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "还原密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-RAMON0AF"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "3904-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "H:\\htestApi\\testcase\\sys.test_sys_changePwd.Test_ChangPwd.test_changpwd2"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17db71f7ae2ff60b.json",
+  "parameterValues" : [ ]
+}

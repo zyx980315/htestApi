@@ -1,0 +1,150 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554623416508" stop="1554623416952">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554623416508" status="passed" stop="1554623416585">
+      <name>H:\htestApi\testcase\sys.test_sys_changePwd.Test_ChangPwd.test_changpwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="feature" value="还原密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416586" status="passed" stop="1554623416634">
+      <name>H:\htestApi\testcase\sys.test_sys_changePwd.Test_ChangPwd.test_changpwd2</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="还原密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416635" status="passed" stop="1554623416658">
+      <name>H:\htestApi\testcase\sys.test_sys_getUserInfo.Test_getUserInfo.test_getUserinfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="获取用户信息模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416659" status="passed" stop="1554623416693">
+      <name>H:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416693" status="passed" stop="1554623416737">
+      <name>H:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_error_password</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416738" status="passed" stop="1554623416758">
+      <name>H:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_nouser</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416759" status="passed" stop="1554623416779">
+      <name>H:\htestApi\testcase\sys.test_sys_login.Test_Login.test_login_longuser</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416779" status="passed" stop="1554623416809">
+      <name>H:\htestApi\testcase\sys.test_sys_logout.Test_Logout.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="退出模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416811" status="passed" stop="1554623416845">
+      <name>H:\htestApi\testcase\user.test_user_loadUserList.Test_Loaduserlist.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="加载用户列表模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416845" status="passed" stop="1554623416874">
+      <name>H:\htestApi\testcase\user.test_user_loadUserList.Test_Loaduserlist.test_load_userInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="加载用户列表模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554623416874" status="passed" stop="1554623416952">
+      <name>H:\htestApi\testcase\user.test_user_saveOrUpdateUser.Test_saveOrUpdateUser.test_saveOrUpdateUser</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="注册用户模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6420-MainThread"/>
+        <label name="host" value="LAPTOP-RAMON0AF"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
